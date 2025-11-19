@@ -1,1 +1,3 @@
-404: Not Found
+discord.py
+paho-mqtt
+flask
